@@ -67,3 +67,5 @@ and appearently, the story of the faded fobs uses YeS! entertainment art
 there are default flash assets inside both the .obb and apk, for example there's the main character from "Doodle-Jump" <img src="images/292.png" width="50">
 <img src="images/296.jpg" width="50"> <img src="images/301.png" width="50">
 it's really strange, but kind of cool when you really think about it
+
+your probably wondering why the entire repo seems.. off, it's because i accidentally ruined the original repo, so i had to reconstruct it here :(
