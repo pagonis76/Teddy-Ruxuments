@@ -78,3 +78,5 @@ to mod teddy's stories (making custom stories) please have a look at the [adafru
 to make custom outfits, you can give teddy a new jacket/vest by buying one or making one. you will have to cut a little thread that holds the vest on teddy
 
 to make teddy a new toy completely, you can give him a new body by making a plush toy with eyeholes, and a mouth or mouthhole, you will have to sacrifice a teddy for this. a lady on youtube did a video on taking apart teddy which is [here](https://www.youtube.com/watch?v=eejZZ6dyo1Q)
+
+BUT WARNING! IF YOU BREAK TEDDY, IT WILL VOID THE WARRANTY!
