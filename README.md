@@ -62,7 +62,7 @@ no? well this is the mushroom forest's photo (found in the apk/swf file):
 
 # the app
 i was looking in the apk, and i found a flash file! it's really just assets. the images inside that file are in the images folder on this repo
-and appearently, the story of the faded fobs uses YeS! entertainment art
+and appearently, the story of the faded fobs uses YeS! entertainment art. also, the app is still available on apkpure, really any app that is discontinued is still on apkpure. [here](https://d.apkpure.com/b/XAPK/air.com.animangaplus.TeddyRuxpin?versionCode=1000038) is a download link, click it to download the xapk, or if for some reason you don't trust me, go to [the apkpure page](https://apkpure.com/teddy-ruxpin/air.com.animangaplus.TeddyRuxpin/download)
 
 <img src="images/171.jpg" width="300">
 
