@@ -71,3 +71,10 @@ there are default flash assets inside both the .obb and apk, for example there's
 it's really strange, but kind of cool when you really think about it
 
 your probably wondering why the entire repo seems.. off, it's because i accidentally ruined the original repo, so i had to reconstruct it here :(
+
+# modding teddy
+to mod teddy please check the [adafruit thingy](https://blog.adafruit.com/2023/08/23/tutorial-teddy-ruxpin-rebuild-hack-your-teddy-with-personalization/), you can make custom stories with custom audio and animations. there's also [this](https://github.com/dglaude/ruxalyzer-for-teddy-ruxpin/tree/main), there's many things, all i know is the .bin files are compressed with SNXROM (or something like that), there's [this aswell!](https://www.hackster.io/news/adafruit-hacks-a-teddy-ruxpin-for-fun-and-profit-and-creepy-glowing-logo-eyes-a4597d7c20de).
+
+to make custom outfits, you can give teddy a new jacket/vest by buying one or making one. you will have to cut a little thread that holds the vest on teddy
+
+to make teddy a new toy completely, you can give him a new body by making a plush toy with eyeholes, and a mouth or mouthhole, you will have to sacrifice a teddy for this. a lady on youtube did a video on taking apart teddy which is [here](https://www.youtube.com/watch?v=eejZZ6dyo1Q)
