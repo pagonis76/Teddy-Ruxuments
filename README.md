@@ -12,6 +12,8 @@ enter app mode: AA020C00F2 (this is used to actually be able to send the hex cod
 
 # main firmware stories:
 
+send whatever story hex you want teddy to have using the same technique you used to send the app mode hex. (DO NOT DO STORY13! IT'S ONLY A PREDICTION, NOT AN OFFICIAL HEX, IT MAY BRICK TEDDY BECAUSE HE WON'T KNOW WHAT TO DO WITH IT!
+
 story 1 (all about bears): AA03110001EB
 
 story 2 (the airship): AA03110002EA
@@ -46,7 +48,7 @@ story 14 (summertime): AA0311000EDE
 
 story 15 (springtime singtime): AA0311000FDD
 
-exit app mode: AA020D00F1 (use this to make teddy interactable again) then disconnect teddy and listen to your newly unlocked stories!
+final hex: exit app mode: AA020D00F1 (use this to make teddy interactable again) then disconnect teddy and listen to your newly unlocked stories!
 
 # but how to download the extra stories to Teddy?
 use a cord like this: <img src="screenshots/thing.jpg" width="100">... plug it into your pc, and into teddy, a new drive will appear, then find a folder called "books" then add story11.bin, story12.bin, story14.bin and story15.bin, if you did everything correctly, there should be four new stories that don't have an intro. if they don't play, redo the hex codes for them, if they still don't play check the SOURCE:
