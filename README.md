@@ -5,6 +5,7 @@ a documentation of the 2017 teddy ruxpin app, and some of the toy! see the pun t
 
 # these are the stories with the hex codes to unlock them
 please use NRF connect, press the bluetooth button on the back of teddy, then connect teddy to NRF connect. his bluetooth name will be "TeddyRuxpin-N351" or something similar. once connected to teddy, tap on the unknown service at the bottom (UUID:a08d...f4) then tap to "unknown characteristic" (the one with the up arrow) and click the up arrow icon, then you'll see "new value", enter the app mode hex which is listed here:
+
 enter app mode: AA020C00F2 (this is used to actually be able to send the hex codes to unlock the stories, it makes teddy think he's connected to the app)
 
 <img src="screenshots/step 1.jpg" width="200"> <img src="screenshots/step 2.jpg" width="200"> <img src="screenshots/step 3.jpg" width="200">
