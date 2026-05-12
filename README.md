@@ -2,6 +2,7 @@
 a documentation of the 2017 teddy ruxpin app, and some of the toy! see the pun though? (ruxpin + documents) "Teddy Ruxuments". it's me being silly lol :P
 
 <img src="images/149.png" width="300">
+
 # these are the stories with the hex codes to unlock them
 please use NRF connect or something similar, tap on the unknown service at the bottom (UUID:a08d...f4) then tap to "unknown characteristic" (the one with the up arrow) and click the up arrow icon, then you'll see "new value", enter the app mode hex which is listed here:
 enter app mode: AA020C00F2 (this is used to actually be able to send the hex codes to unlock the stories, it makes teddy think he's connected to the app)
