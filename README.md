@@ -80,3 +80,6 @@ to make custom outfits, you can give teddy a new jacket/vest by buying one or ma
 to make teddy a new toy completely, you can give him a new body by making a plush toy with eyeholes, and a mouth or mouthhole, you will have to sacrifice a teddy for this. a lady on youtube did a video on taking apart teddy which is [here](https://www.youtube.com/watch?v=eejZZ6dyo1Q) however BE CAREFUL with teddy!
 
 BUT WARNING! IF YOU BREAK TEDDY, IT WILL VOID THE WARRANTY!
+
+# other
+there is a [video](https://ia800907.us.archive.org/31/items/teddy-ruxpin-instructional-video/Teddy%20Ruxpin%20Instructional%20Video.mp4) that talks about "getting started, features and controls, storytelling and singing mode, interactive app play mode, expanding your digital library, and troubleshooting and tips". however the links in the video are dead and the video info is kinda outdated
