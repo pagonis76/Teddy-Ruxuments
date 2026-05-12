@@ -4,7 +4,7 @@ a documentation of the 2017 teddy ruxpin app, and some of the toy! see the pun t
 <img src="images/149.png" width="300">
 
 # these are the stories with the hex codes to unlock them
-please use NRF connect or something similar, tap on the unknown service at the bottom (UUID:a08d...f4) then tap to "unknown characteristic" (the one with the up arrow) and click the up arrow icon, then you'll see "new value", enter the app mode hex which is listed here:
+please use NRF connect, press the bluetooth button on the back of teddy, then connect teddy to NRF connect. his bluetooth name will be "TeddyRuxpin-N351 or something similar. once connected to teddy, tap on the unknown service at the bottom (UUID:a08d...f4) then tap to "unknown characteristic" (the one with the up arrow) and click the up arrow icon, then you'll see "new value", enter the app mode hex which is listed here:
 enter app mode: AA020C00F2 (this is used to actually be able to send the hex codes to unlock the stories, it makes teddy think he's connected to the app)
 
 <img src="screenshots/step 1.jpg" width="200"> <img src="screenshots/step 2.jpg" width="200"> <img src="screenshots/step 3.jpg" width="200">
@@ -45,7 +45,7 @@ story 14 (summertime): AA0311000EDE
 
 story 15 (springtime singtime): AA0311000FDD
 
-exit app mode: AA020D00F1 (use this to make teddy interactable again and listen to your newly unlocked stories!)
+exit app mode: AA020D00F1 (use this to make teddy interactable again) then disconnect teddy and listen to your newly unlocked stories!
 
 # but how to download the extra stories to Teddy?
 use a cord like this: <img src="screenshots/thing.jpg" width="100">... plug it into your pc, and into teddy, a new drive will appear, then find a folder called "books" then add story11.bin, story12.bin, story14.bin and story15.bin, if you did everything correctly, there should be four new stories that don't have an intro. if they don't play, redo the hex codes for them, if they still don't play check the SOURCE:
