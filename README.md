@@ -87,6 +87,31 @@ BUT WARNING! IF YOU BREAK TEDDY, IT WILL VOID THE WARRANTY!
 
 # Test mode on the 2017 teddy
 to enter test mode, you have to (somehow) turn on teddy, then very quickly push all three main buttons (the two paws, and the skip story button)
+to navigate test mode, use teddy's right paw, to start a test, press teddy's left paw. i haven't yet tested the patch button/the button on teddy's chest in test mode.
+
+modes:
+
+mouth cal test (most likely stands for mouth calibration test): this makes teddy's mouth open and close
+
+LCD test: this makes teddy's LCDs show colors, it's similar to the furby connect's LCD test mode
+
+demo song: this makes teddy sing/tell the story "all about bears" when his left paw is pressed
+
+button test: this tests the three buttons on teddy, it also shows weird versions of teddy's eyes on the screen
+
+motor test, does what you think it does, tests the mouth motor
+
+book test: shows you exactly what stories you have unlocked and which ones are still locked, story13 will be locked, it's only a slot for a story and appearently there were originally supposed to be 20 stories, 10 pre-downloaded, and 10 downloadable, since there is story16-story20 slots, you can add your own stories in these slots, i haven't yet figured out how to do so though
+
+usb test: this tests the usb at the back of teddy
+
+battery test: shows you teddy's battery level when you press his left paw
+
+bluetooth test, press teddy's left paw, this starts the test, then press the bluetooth button on the back of teddy, then you can see if teddy's bluetooth is working
+
+sleep mode, turns teddy off when the left paw is pressed
+
+and then thats the end of test mode!
 
 # other
 there is a [video](https://ia800907.us.archive.org/31/items/teddy-ruxpin-instructional-video/Teddy%20Ruxpin%20Instructional%20Video.mp4) that talks about "getting started, features and controls, storytelling and singing mode, interactive app play mode, expanding your digital library, and troubleshooting and tips". however the links in the video are dead and the video info is kinda outdated
