@@ -117,3 +117,8 @@ and then thats the end of test mode!
 there is a [video](https://ia800907.us.archive.org/31/items/teddy-ruxpin-instructional-video/Teddy%20Ruxpin%20Instructional%20Video.mp4) that talks about "getting started, features and controls, storytelling and singing mode, interactive app play mode, expanding your digital library, and troubleshooting and tips". however the links in the video are dead and the video info is kinda outdated
 
 i'm also going to try and recreate what story13.bin was supposed to be, i'll add it here if i can, i haven't made it yet though. i'll start it soon enough. i'm going to use that as a placeholder until i find the real story.bin file
+
+i may also try and make the last five stories that were never released (they are unknown, story16-story20 are only slots for stories to go)
+
+list of stories i'm going to try and make:
+Story13 (the mushroom forest), story16 (teddy ruxpin's autumn adventure), story17 (teddy ruxpin's winter adventure), story18 (take a good look), story19 (grunge music) and story20 (lullabies II)
