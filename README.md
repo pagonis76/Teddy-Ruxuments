@@ -42,7 +42,7 @@ story 11 (double grubby): AA0311000BE1
 
 story 12 (the story of the faded fobs): AA0311000CE0
 
-story 13 (The mushroom forest, but it has no hex, maybe it does exist somewhere but because the .bin doesn't exist anywhere i know of, it's not listed here. the hex to unlock it though may be AA0311000DDF, this is only a prediction, not anything true, it's just my guess)
+story 13 (The mushroom forest): AA0311000DDF (FOUND HEX! but the bin file doesn't exist... or does it?)
 
 story 14 (summertime): AA0311000EDE
 
