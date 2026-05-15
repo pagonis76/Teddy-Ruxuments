@@ -50,6 +50,19 @@ story 15 (springtime singtime): AA0311000FDD
 
 final hex: exit app mode: AA020D00F1 (use this to make teddy interactable again) then disconnect teddy and listen to your newly unlocked stories!
 
+# custom-only stories
+these unlock the slots for the stories, then you have quite a bit of slots to put custom stories in
+
+story16: AA03110010DC
+
+story17: AA03110011DB
+
+story18: AA03110012DA
+
+story19: AA03110013D9
+
+story20: AA03110014D8
+
 # but how to download the extra stories to Teddy?
 use a cord like this: <img src="screenshots/thing.jpg" width="100">... plug it into your pc, and into teddy, a new drive will appear, then find a folder called "books" then add story11.bin, story12.bin, story14.bin and story15.bin, if you did everything correctly, there should be four new stories that don't have an intro. if they don't play, redo the hex codes for them, if they still don't play check the SOURCE:
 here is the [SOURCE](https://www.reddit.com/r/teddyruxpin/comments/romz7g/story_bins/)
