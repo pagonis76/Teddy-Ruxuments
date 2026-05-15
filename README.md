@@ -12,7 +12,7 @@ enter app mode: AA020C00F2 (this is used to actually be able to send the hex cod
 
 # main firmware stories:
 
-send whatever story hex you want teddy to have using the same technique you used to send the app mode hex. (DO NOT DO STORY13! IT'S ONLY A PREDICTION, NOT AN OFFICIAL HEX, IT MAY BRICK TEDDY BECAUSE HE WON'T KNOW WHAT TO DO WITH IT!
+send whatever story hex you want teddy to have using the same technique you used to send the app mode hex (story13 coicidentally was correct, i just guessed it)
 
 story 1 (all about bears): AA03110001EB
 
