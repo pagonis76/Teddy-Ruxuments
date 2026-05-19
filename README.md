@@ -114,7 +114,7 @@ demo song: this makes teddy sing/tell the story "all about bears" when his left 
 
 button test: this tests the three buttons on teddy, it also shows weird versions of teddy's eyes on the screen
 
-motor test, does what you think it does, tests the mouth motor
+motor test: does what you think it does, tests the mouth motor
 
 book test: shows you exactly what stories you have unlocked and which ones are still locked, story13 will be locked, it's only a slot for a story and appearently there were originally supposed to be 20 stories, 10 pre-downloaded, and 10 downloadable, since there is story16-story20 slots, you can add your own stories in these slots, i haven't yet figured out how to do so though
 
@@ -122,9 +122,9 @@ usb test: this tests the usb at the back of teddy
 
 battery test: shows you teddy's battery level when you press his left paw
 
-bluetooth test, press teddy's left paw, this starts the test, then press the bluetooth button on the back of teddy, then you can see if teddy's bluetooth is working
+bluetooth test: press teddy's left paw, this starts the test, then press the bluetooth button on the back of teddy, then you can see if teddy's bluetooth is working
 
-sleep mode, turns teddy off when the left paw is pressed
+sleep mode: turns teddy off when the left paw is pressed
 
 and then thats the end of test mode!
 
