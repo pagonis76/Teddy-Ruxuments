@@ -66,7 +66,7 @@ story20: AA03110014D8
 Story13 is now in the works!
 
 # but how to download the extra stories to Teddy?
-use a cord like this: <img src="screenshots/thing.jpg" width="100">... plug it into your pc, and into teddy, a new drive will appear, then find a folder called "books" then add story11.bin, story12.bin, story14.bin and story15.bin, if you did everything correctly, there should be four new stories that don't have an intro. if they don't play, redo the hex codes for them, if they still don't play check the SOURCE:
+use a cord like this: <img src="screenshots/thing.jpg" width="100">... plug it into your pc, and into teddy, a new drive will appear, then find a folder called "books" then add story11.bin, story12.bin, story14.bin and story15.bin, if you did everything correctly, there should be four new stories that don't have an intro, or just download custom stories! if they don't play, redo the hex codes for them, if they still don't play check the SOURCE:
 here is the [SOURCE](https://www.reddit.com/r/teddyruxpin/comments/romz7g/story_bins/)
 
 # proof of story13 existing and being the mushroom forest
