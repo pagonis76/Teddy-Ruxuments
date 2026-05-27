@@ -63,7 +63,7 @@ story19: AA03110013D9
 
 story20: AA03110014D8
 
-Story13 is now in the works!
+MASSIVE UPDATE: Story13 was appearently advertised at some point by Wicked cool toys, it was in the list of "downloadable stories", meaning the bin exists SOMEWHERE! it was on the official teddy ruxpin instagram, it was found by my friend: @Pizzaelmo on youtube, HUGE thanks to them!!
 
 # but how to download the extra stories to Teddy?
 use a cord like this: <img src="screenshots/thing.jpg" width="100">... plug it into your pc, and into teddy, a new drive will appear, then find a folder called "books" then add story11.bin, story12.bin, story14.bin and story15.bin, if you did everything correctly, there should be four new stories that don't have an intro, or just download custom stories! if they don't play, redo the hex codes for them, if they still don't play check the SOURCE:
