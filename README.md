@@ -42,7 +42,7 @@ story 11 (double grubby): AA0311000BE1
 
 story 12 (the story of the faded fobs): AA0311000CE0
 
-story 13 (The mushroom forest): AA0311000DDF (FOUND HEX! but the bin file doesn't exist... or does it?)
+story 13 (The mushroom forest): AA0311000DDF (FOUND HEX! the bin file is currently under research!)
 
 story 14 (summertime): AA0311000EDE
 
