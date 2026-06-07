@@ -1,5 +1,6 @@
 # <img src="res/mipmap-xhdpi-v4/icon.png" width="50"> welcome to teddy-ruxuments!
 a documentation of the 2017 teddy ruxpin app, and some of the toy! see the pun though? (ruxpin + documents) "Teddy Ruxuments". it's me being silly lol :P
+
 <img src="images/149.png" width="300">
 
 # these are the stories with the hex codes to unlock them
