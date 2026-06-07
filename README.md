@@ -1,6 +1,5 @@
 # <img src="res/mipmap-xhdpi-v4/icon.png" width="50"> welcome to teddy-ruxuments!
 a documentation of the 2017 teddy ruxpin app, and some of the toy! see the pun though? (ruxpin + documents) "Teddy Ruxuments". it's me being silly lol :P
-
 <img src="images/149.png" width="300">
 
 # these are the stories with the hex codes to unlock them
@@ -64,6 +63,8 @@ story19: AA03110013D9
 story20: AA03110014D8
 
 MASSIVE UPDATE: Story13 was appearently advertised at some point by Wicked cool toys, it was in the list of "downloadable stories", meaning the bin exists SOMEWHERE! it was on the official teddy ruxpin instagram, it was found by my friend: @Pizzaelmo on youtube, HUGE thanks to them!!
+
+status: my custom story13.bin is on pause, most likely for a while as i've been busy, i may edit the story on my computer every now and then
 
 # but how to download the extra stories to Teddy?
 use a cord like this: <img src="screenshots/thing.jpg" width="100">... plug it into your pc, and into teddy, a new drive will appear, then find a folder called "books" then add story11.bin, story12.bin, story14.bin and story15.bin, if you did everything correctly, there should be four new stories that don't have an intro, or just download custom stories! if they don't play, redo the hex codes for them, if they still don't play check the SOURCE:
