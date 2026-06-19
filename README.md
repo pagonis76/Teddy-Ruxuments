@@ -140,6 +140,10 @@ i may also try and make the last five stories that were never released (they are
 list of stories i'm going to try and make:
 Story13 (the mushroom forest), story16 (teddy ruxpin's autumn adventure), story17 (teddy ruxpin's winter adventure), story18 (take a good look), story19 (grunge music) and story20 (lullabies II)
 
+strange gif I found:
+
+<img src="screenshots/TEDRUX.gif" width="300">
+
 
 
 ------------------------------------------<img src="15.svg" width="300">------------------------------------------
