@@ -131,7 +131,7 @@ sleep mode: turns teddy off when the left paw is pressed
 and then thats the end of test mode!
 
 # other
-there is a [video](https://ia800907.us.archive.org/31/items/teddy-ruxpin-instructional-video/Teddy%20Ruxpin%20Instructional%20Video.mp4) that talks about "getting started, features and controls, storytelling and singing mode, interactive app play mode, expanding your digital library, and troubleshooting and tips". however the links in the video are dead and the video info is kinda outdated, however i think i may have found the link it was listing, it is [here](https://teddy-ruxpin.com/)
+there is a [video](https://ia800907.us.archive.org/31/items/teddy-ruxpin-instructional-video/Teddy%20Ruxpin%20Instructional%20Video.mp4) that talks about "getting started, features and controls, storytelling and singing mode, interactive app play mode, expanding your digital library, and troubleshooting and tips". however the links in the video are dead and the video info is kinda outdated, however i think i may have found the link it was listing, it is [here](https://teddy-ruxpin.com/), and i've found something a little more interesting, there's an obscure archived version of the wicked cool toys website from 2017, there's no pictures, just text and the website is broken, so it's not much but [here it is.](https://web.archive.org/web/20171212204028/http://wickedcooltoys.com/product-category/teddy-ruxpin/)
 
 i'm also going to try and recreate what story13.bin was supposed to be, i'll add it here if i can, i haven't made it yet though. i'll start it soon enough. i'm going to use that as a placeholder until i find the real story.bin file
 
