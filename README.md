@@ -63,6 +63,7 @@ story19: AA03110013D9
 
 story20: AA03110014D8
 
+# documentation updates
 MASSIVE UPDATE: Story13 was appearently advertised at some point by Wicked cool toys, it was in the list of "downloadable stories", meaning the bin exists SOMEWHERE! it was on the official teddy ruxpin instagram, it was found by my friend: @Pizzaelmo on youtube, HUGE thanks to them!!
 
 MASSIVE UPDATE #2: another discovery by @pizzaelmo was the mushroom forest, lullabies II, tweeg and the bounders, teddy's winter adventure, gizmos and gadgets, and autumn adventure was OFFICIALLY advertised by wicked cool toys and the advertisement was labeled: "YEAR 2 WILL BE EVEN BIGGER!" and the release date of these stories was 2018, but they never were officially released for unknown reasons!
