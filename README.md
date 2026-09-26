@@ -67,6 +67,9 @@ story20: AA03110014D8
 MASSIVE UPDATE: Story13 was appearently advertised at some point by Wicked cool toys, it was in the list of "downloadable stories", meaning the bin exists SOMEWHERE! it was on the official teddy ruxpin instagram, it was found by my friend: @Pizzaelmo on youtube, HUGE thanks to them!!
 
 MASSIVE UPDATE #2: another discovery by @pizzaelmo was the mushroom forest, lullabies II, tweeg and the bounders, teddy's winter adventure, gizmos and gadgets, and autumn adventure was OFFICIALLY advertised by wicked cool toys and the advertisement was labeled: "YEAR 2 WILL BE EVEN BIGGER!" and the release date of these stories was 2018, but they never were officially released for unknown reasons!
+photo:
+
+<img src="screenshots/TEDRUX_AD.png" width="250">
 
 status: my custom story13.bin is on pause, most likely for a while as i've been busy, i may edit the story on my computer every now and then
 
@@ -82,6 +85,10 @@ tell me if you notice the mushroom forest anywhere on these two photos. (these a
 no? well this is the mushroom forest's photo (found in the apk/swf file):
 
 <img src="images/265.jpg" width="300">
+
+and plus, it's seen in the official ad:
+
+<img src="screenshots/TEDRUX_AD.png" width="250">
 
 # the app
 i was looking in the apk, and i found a flash file! it's really just assets. the images inside that file are in the images folder on this repo
