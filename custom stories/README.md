@@ -1,1 +1,2 @@
-# these are custom stories, they are NOT OFFICIAL!
+# These are custom stories, they are NOT OFFICIAL!
+FULLY WORKING CUSTOM-MADE STORY13, STORY16, STORY17, AND MORE COMING SOON!!
