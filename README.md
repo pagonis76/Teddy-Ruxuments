@@ -63,6 +63,10 @@ story19: AA03110013D9
 
 story20: AA03110014D8
 
+# but how to download the extra stories to Teddy?
+use a cord like this: <img src="screenshots/thing.jpg" width="100">... plug it into your pc, and into teddy, a new drive will appear, then find a folder called "books" then add story11.bin, story12.bin, story14.bin and story15.bin, if you did everything correctly, there should be four new stories that don't have an intro, or just download custom stories! if they don't play, redo the hex codes for them, if they still don't play check the SOURCE:
+here is the [SOURCE](https://www.reddit.com/r/teddyruxpin/comments/romz7g/story_bins/)
+
 # documentation updates
 MASSIVE UPDATE: Story13 was appearently advertised at some point by Wicked cool toys, it was in the list of "downloadable stories", meaning the bin exists SOMEWHERE! it was on the official teddy ruxpin instagram, it was found by my friend: @Pizzaelmo on youtube, HUGE thanks to them!!
 
@@ -75,10 +79,6 @@ photo:
 status: the original stories 13 and 16-20 are under research, but my custom story13 and 16-20 are fully working and finished!:
 
 [FULLY WORKING CUSTOM STORY13 AND STORIES 16-20!](https://drive.google.com/drive/folders/1aSZH93OQhCZMPc2k7qxoTRo22Xl5R4YN?usp=drive_link)
-
-# but how to download the extra stories to Teddy?
-use a cord like this: <img src="screenshots/thing.jpg" width="100">... plug it into your pc, and into teddy, a new drive will appear, then find a folder called "books" then add story11.bin, story12.bin, story14.bin and story15.bin, if you did everything correctly, there should be four new stories that don't have an intro, or just download custom stories! if they don't play, redo the hex codes for them, if they still don't play check the SOURCE:
-here is the [SOURCE](https://www.reddit.com/r/teddyruxpin/comments/romz7g/story_bins/)
 
 # proof of story13 existing and being the mushroom forest
 tell me if you notice the mushroom forest anywhere on these two photos. (these are from the apk/the swf file)
@@ -93,13 +93,22 @@ and plus, it's seen in official ads:
 
 <img src="screenshots/TEDRUX_AD.png" width="250"> <img src="screenshots/TEDRUX_AD0.png" width="250">
 
+there's even a slot for story13 on teddy
+
+# more about the story bins
+## how does teddy know whether a story is in the right slot or not?
+in the metadata of every story bin, there's a number, that number being the story's slot
+for example, story07 would have "7" in it's metadata
+## how does the audio work?
+the story bins have 32 kbps audio (or sometimes 16 kbps), and the audio of the story is split up into segments, those segments play while the story runs, the segments actually have code for lip syncing and eye animation controllers, every time you press the skip button on teddy's chest, it just skips to the next segment of the story, and at the last segment, if you press the skip button, it doesn't do anything, the segments keeps playing until the audio ends or you play another story.
+
 # the app
 i was looking in the apk, and i found a flash file! it's really just assets. the images inside that file are in the images folder on this repo
 and appearently, the story of the faded fobs uses YeS! entertainment art. also, the app is still available on apkpure, really any app that is discontinued is still on apkpure. [here](https://d.apkpure.com/b/XAPK/air.com.animangaplus.TeddyRuxpin?versionCode=1000038) is a download link, click it to download the xapk, or if for some reason you don't trust me, go to [the apkpure page](https://apkpure.com/teddy-ruxpin/air.com.animangaplus.TeddyRuxpin/download)
 
 <img src="images/171.jpg" width="300">
 
-# leftovers/oddities
+## leftovers/oddities
 there are default flash assets inside both the .obb and apk, for example there's the main character from "Doodle-Jump" <img src="images/292.png" width="50">
 <img src="images/296.jpg" width="50"> <img src="images/301.png" width="50">
 it's really strange, but kind of cool when you really think about it
