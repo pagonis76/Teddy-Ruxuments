@@ -74,6 +74,9 @@ photo:
 
 status: my custom story13.bin is on pause, most likely for a while as i've been busy, i may edit the story on my computer every now and then
 
+UPDATE #3:
+[FULLY WORKING CUSTOM STORY13 AND STORIES 16-20!](https://drive.google.com/drive/folders/1aSZH93OQhCZMPc2k7qxoTRo22Xl5R4YN?usp=drive_link)
+
 # but how to download the extra stories to Teddy?
 use a cord like this: <img src="screenshots/thing.jpg" width="100">... plug it into your pc, and into teddy, a new drive will appear, then find a folder called "books" then add story11.bin, story12.bin, story14.bin and story15.bin, if you did everything correctly, there should be four new stories that don't have an intro, or just download custom stories! if they don't play, redo the hex codes for them, if they still don't play check the SOURCE:
 here is the [SOURCE](https://www.reddit.com/r/teddyruxpin/comments/romz7g/story_bins/)
