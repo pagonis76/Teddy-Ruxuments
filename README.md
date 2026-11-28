@@ -72,9 +72,8 @@ photo:
 
 <img src="screenshots/TEDRUX_AD.png" width="250"> <img src="screenshots/TEDRUX_AD0.png" width="250">
 
-status: my custom story13.bin is on pause, most likely for a while as i've been busy, i may edit the story on my computer every now and then
+status: the original stories 13 and 16-20 are under research, but my custom story13 and 16-20 are fully working and finished!:
 
-UPDATE #3:
 [FULLY WORKING CUSTOM STORY13 AND STORIES 16-20!](https://drive.google.com/drive/folders/1aSZH93OQhCZMPc2k7qxoTRo22Xl5R4YN?usp=drive_link)
 
 # but how to download the extra stories to Teddy?
